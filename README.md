@@ -8,7 +8,7 @@
 
 https://www.cxyxiaowu.com/15953.html
 
-tips: address sample: c/Users/project
+Notes: address sample: c/Users/project
 
 ----------
 
@@ -29,4 +29,14 @@ https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-ex
 
 ----------
 **FOLDER NAME ISSUE: "Main" and "Master"**
+
 https://blog.csdn.net/caicsama/article/details/112586274
+
+Notes: git merge master --allow-unrelated-histories
+
+----------
+**DELETE REMOTE BRANCH**
+
+https://zhuanlan.zhihu.com/p/339370999
+
+----------
