@@ -50,3 +50,8 @@ https://blog.csdn.net/tsq292978891/article/details/78965693
 
 ----------
 **ISSUE: head is not a commit and a branch cannot be created from it**
+**What is upstrem**
+
+https://blog.csdn.net/xo3ylaf9kgs/article/details/114810781
+
+https://www.jianshu.com/p/c8ab9596f567
