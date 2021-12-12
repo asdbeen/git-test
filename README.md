@@ -49,3 +49,4 @@ https://blog.csdn.net/tsq292978891/article/details/78965693
 
 
 ----------
+**ISSUE: head is not a commit and a branch cannot be created from it**
